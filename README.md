@@ -1,4 +1,4 @@
-# Notes on the book How to write a lot
+# Notes on the book [How to write a lot](https://www.apa.org/pubs/books/4441010)
 
 -   Allot time to write
 -   Close Internet access, turn off phone, shut the door
